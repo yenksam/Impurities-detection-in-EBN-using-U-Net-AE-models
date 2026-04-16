@@ -1,4 +1,4 @@
-Impurities Detection in Edible Bird’s Nest using U-net & AE model
+Impurities Detection in Edible Bird’s Nest using U-net & AE models
 
 This project develops custom U-Net & AE models to detect impurities in edible bird’s nest images.
 
